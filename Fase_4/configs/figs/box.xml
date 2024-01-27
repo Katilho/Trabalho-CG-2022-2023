@@ -1,0 +1,24 @@
+<world> 
+    <window width="550" height="450" />
+    <camera> 
+	    <position x="3" y="2" z="1" />
+	    <lookAt x="0" y="0" z="0" />
+	    <up x="0" y="1" z="0" />
+        <projection fov="60" near="1" far="1000" /> 
+    </camera>
+	<lights> 
+		<light type="directional" dirX="5" dirY="5" dirZ="5" />
+	</lights>
+	<group> 
+  		<models> 
+			<model file="../Fase_4/outputs/box_2_3.3d">
+				<color>
+					<diffuse R="204" G="51" B="51" />
+					<ambient R="204" G="51" B="51" />
+					<specular R="204" G="204" B="204" />
+					<shininess value="128"/>
+				</color>
+			</model>
+ 		</models>
+ 	</group>
+</world>
