@@ -16,6 +16,13 @@
 
 </div>
 
+### Nota: 18.6 / 20
+
+<h3><i>Keywords</i></h3>
+CG, Computação Gráfica , computacao grafica, uminho, miei, lei, engenharia informatica
+
+---
+
 ### Como executar os testes do programa:
 **Atenção:**
 - Pré-requisitos
@@ -71,8 +78,3 @@ make test_4_6
 make solarAnimated4
 make solarStatic4
 ```
-
-### Nota: 18.6 / 20
-
-<h3><i>Keywords</i></h3>
-CG, Computação Gráfica , computacao grafica, uminho, miei, lei, engenharia informatica
